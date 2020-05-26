@@ -3,4 +3,6 @@ info:
   
 
 name: qiang
-words: 'little qiang change name  '
+words: 'little qiang change name '
+
+password: '{cipher}c1b0fdc73a1992ecfe8ffebb4c22ccd9a400f3b70110c9e4ad537b09f5cd652e'
